@@ -1,0 +1,320 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "BuildingGeomView.163312",
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                7513483.03,
+                                4700636.67
+                            ],
+                            [
+                                7513479.73,
+                                4700623.19
+                            ],
+                            [
+                                7513465.89,
+                                4700626.57
+                            ],
+                            [
+                                7513465.48,
+                                4700624.87
+                            ],
+                            [
+                                7513443.61,
+                                4700630.21
+                            ],
+                            [
+                                7513444.64,
+                                4700634.44
+                            ],
+                            [
+                                7513415.24,
+                                4700641.61
+                            ],
+                            [
+                                7513410.62,
+                                4700642.74
+                            ],
+                            [
+                                7513413.3,
+                                4700653.69
+                            ],
+                            [
+                                7513483.03,
+                                4700636.67
+                            ]
+                        ]
+                    ]
+                ]
+            },
+            "geometry_name": "Geometry",
+            "properties": {
+                "BuildingDetailId": 163312,
+                "BuildingId": 170341,
+                "CadastreUnitId": "O-72209079-1-0",
+                "CadastreZoneId": 72209079,
+                "CadastreZoneCode": 72209079,
+                "BuildingNumber": "1-0",
+                "FloorDescription": "P+0",
+                "BuildingPermit": 0,
+                "UsagePermit": 0,
+                "BuildingType": 7,
+                "ActualUse": 4,
+                "Status": 1,
+                "Area": null
+            },
+            "bbox": [
+                7513410.62,
+                4700623.19,
+                7513483.03,
+                4700653.69
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "BuildingGeomView.189446",
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                7513441.597,
+                                4700605.64
+                            ],
+                            [
+                                7513460.882,
+                                4700600.088
+                            ],
+                            [
+                                7513453.598,
+                                4700573.562
+                            ],
+                            [
+                                7513434.313,
+                                4700579.114
+                            ],
+                            [
+                                7513441.597,
+                                4700605.64
+                            ]
+                        ]
+                    ]
+                ]
+            },
+            "geometry_name": "Geometry",
+            "properties": {
+                "BuildingDetailId": 189446,
+                "BuildingId": 193949,
+                "CadastreUnitId": "O-72209079-16-0",
+                "CadastreZoneId": 72209079,
+                "CadastreZoneCode": 72209079,
+                "BuildingNumber": "16-0",
+                "FloorDescription": "P+0",
+                "BuildingPermit": 0,
+                "UsagePermit": 0,
+                "BuildingType": 2,
+                "ActualUse": 0,
+                "Status": 1,
+                "Area": null
+            },
+            "bbox": [
+                7513434.313,
+                4700573.562,
+                7513460.882,
+                4700605.64
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "BuildingGeomView.163313",
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                7513444.64,
+                                4700634.44
+                            ],
+                            [
+                                7513443.61,
+                                4700630.21
+                            ],
+                            [
+                                7513441.63,
+                                4700622.75
+                            ],
+                            [
+                                7513412.47,
+                                4700629.84
+                            ],
+                            [
+                                7513415.24,
+                                4700641.61
+                            ],
+                            [
+                                7513444.64,
+                                4700634.44
+                            ]
+                        ]
+                    ]
+                ]
+            },
+            "geometry_name": "Geometry",
+            "properties": {
+                "BuildingDetailId": 163313,
+                "BuildingId": 170342,
+                "CadastreUnitId": "O-72209079-2-0",
+                "CadastreZoneId": 72209079,
+                "CadastreZoneCode": 72209079,
+                "BuildingNumber": "2-0",
+                "FloorDescription": "P+0",
+                "BuildingPermit": 0,
+                "UsagePermit": 0,
+                "BuildingType": 7,
+                "ActualUse": 4,
+                "Status": 1,
+                "Area": null
+            },
+            "bbox": [
+                7513412.47,
+                4700622.75,
+                7513444.64,
+                4700641.61
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "BuildingGeomView.163314",
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                7513412.47,
+                                4700629.84
+                            ],
+                            [
+                                7513441.63,
+                                4700622.75
+                            ],
+                            [
+                                7513440.23,
+                                4700617.48
+                            ],
+                            [
+                                7513411.2,
+                                4700624.53
+                            ],
+                            [
+                                7513412.47,
+                                4700629.84
+                            ]
+                        ]
+                    ]
+                ]
+            },
+            "geometry_name": "Geometry",
+            "properties": {
+                "BuildingDetailId": 163314,
+                "BuildingId": 170343,
+                "CadastreUnitId": "O-72209079-3-0",
+                "CadastreZoneId": 72209079,
+                "CadastreZoneCode": 72209079,
+                "BuildingNumber": "3-0",
+                "FloorDescription": "P+0",
+                "BuildingPermit": 0,
+                "UsagePermit": 0,
+                "BuildingType": 7,
+                "ActualUse": 4,
+                "Status": 1,
+                "Area": null
+            },
+            "bbox": [
+                7513411.2,
+                4700617.48,
+                7513441.63,
+                4700629.84
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "BuildingGeomView.189445",
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                7513387.728,
+                                4700584.282
+                            ],
+                            [
+                                7513401.44,
+                                4700622.086
+                            ],
+                            [
+                                7513412.876,
+                                4700618.04
+                            ],
+                            [
+                                7513399.164,
+                                4700580.236
+                            ],
+                            [
+                                7513387.728,
+                                4700584.282
+                            ]
+                        ]
+                    ]
+                ]
+            },
+            "geometry_name": "Geometry",
+            "properties": {
+                "BuildingDetailId": 189445,
+                "BuildingId": 193948,
+                "CadastreUnitId": "O-72209079-15-0",
+                "CadastreZoneId": 72209079,
+                "CadastreZoneCode": 72209079,
+                "BuildingNumber": "15-0",
+                "FloorDescription": "P+0",
+                "BuildingPermit": 0,
+                "UsagePermit": 0,
+                "BuildingType": 7,
+                "ActualUse": 4,
+                "Status": 1,
+                "Area": null
+            },
+            "bbox": [
+                7513387.728,
+                4700580.236,
+                7513412.876,
+                4700622.086
+            ]
+        }
+    ],
+    "totalFeatures": 5,
+    "numberMatched": 5,
+    "numberReturned": 5,
+    "timeStamp": "2026-09-02T05:09:06.512Z",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::7392"
+        }
+    },
+    "bbox": [
+        7513387.728,
+        4700573.562,
+        7513483.03,
+        4700653.69
+    ]
+}
